@@ -60,7 +60,7 @@ Sample video presentation click on the image
 ## Future prospect 
 By implementing our solution, we are sure to be able to make progress in controls and road safety.
 This project will provide employment to young people who are passionate about new technologies.
-Through the project check vehicle that will be implemented for the verification and control of license plates, we will discover the possibilities and potential offered by artificial intelligence in its implementation and use in road traffic with the tools and services Microsoft as a solution.
+Through the project check vehicle that will be implemented for the verification and control of license plates, we will discover the possibilities and potential offered by artificial intelligence in its implementation and use in road traffic with the tools and Microsoft services as a solution.
 
 ## Documentation
 
