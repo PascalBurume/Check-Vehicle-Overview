@@ -40,7 +40,13 @@ Power BI will allow to analyse and have the visuals on all vehicles record, thos
 
 ## Demostration
 
-[![Promo video](ml.gif)](https://youtu.be/Tj1XWrDSYJU "Promo video") 
+[![Promo video](ml.gif)](https://youtu.be/Tj1XWrDSYJU "Promo video")
+
+**Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
+
+> 🎥 Click the image above for a video about the project and the folks who created it!
+
+---
 
 ## Technologies
 
