@@ -40,23 +40,29 @@ Power BI will allow to analyse and have the visuals on all vehicles record, thos
 
 ## Demostration
 
+Sample video presentation click on the image
+
 [![Promo video](ml.gif)](https://youtu.be/Tj1XWrDSYJU "Promo video")
 
-**Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
-> 🎥 Click the image above for a video about the project and the folks who created it!
 
----
+>
 
 ## Technologies
 
-* Azure Cognitive Services (Computer Vision): Analyze images and extract data
-* Azure Blob Storag : store unstructured Data
+* AI Builder (Text Analyzer): Analyze images and extract data
+* Sharepoint: structure data
+* Azure File share (optional): for a big mount of Data, help for scalabilitity, flexibility and availability 
 * Power platform
   - Power Apps: Mange and automate Process
   - Power BI: Visualising Data and forecasting with AI 
-  - Dataverse : for storing Data
+ 
+## Future prospect 
+By implementing our solution, we are sure to be able to make progress in controls and road safety.
+This project will provide employment to young people who are passionate about new technologies.
+Through the project check vehicle that will be implemented for the verification and control of license plates, we will discover the possibilities and potential offered by artificial intelligence in its implementation and use in road traffic with the tools and services Microsoft as a solution.
 
+## Documentation
 
 * [Explore Power Platform](https://powerplatform.microsoft.com/en-us/)
 * [Explore Power Apps](https://powerapps.microsoft.com/en-us/)
