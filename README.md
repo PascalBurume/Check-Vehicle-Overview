@@ -1,10 +1,23 @@
 ![Profile Check Vehicle](./assets/Profil_Check_Vehicle.png)
 
-Let's automate the vehicle identification with the Check Vehicle solution which is for us a better solution to remedy the problem of taxes for the movers.
 
-## About
 
-This system utilizes cutting-edge image recognition technology to extract text from a vehicle's license plate, and then searches a database to determine if the vehicle is registered. If the vehicle is not found in the database, it is deemed unregistered. This system is designed to be fast, efficient, and easy to use, making it the perfect solution for any organization that needs to quickly and accurately check the registration status of vehicles. With its powerful capabilities, this system is sure to revolutionize the way we manage and track vehicle registration.
+## Introduction
+
+Enterprises collect massive amounts of data every day, much of it in unstructured formats. Enterprises across industries can reap significant benefits by leveraging and refining the insights contained in this raw data.
+Data collection and analysis are not recent phenomena. Nevertheless, significant changes have occurred in some areas of computing over the past few decades, such as in the area of ​​surveillance through modern institutions.
+With advancements in artificial intelligence, some problems that were complex to grasp have become easy to solve from an integration perspective; The solutions are based on different artificial intelligence through different platforms such as Azure Artificial Intelligence Services, Cognitive Services, AI Builder services, machine learning, language studio and many others. These services have brought many solutions in the daily use of human work. This is how we are going to adopt a solution for our check vehicle project which will make it possible to control license plates to fight against theft, ensure road safety but also have necessary information concerning the driver, vehicles and motorcycles. In the event of serious accidents.
+
+
+## Problem
+Despite the government's objectives on the regulation of road traffic, we are faced with very big problems concerning road safety, more precisely such as that of identifying certain documents of vehicles, motorcycles which have been stolen; in case of accidents how to have the necessary information of the car or the driver in question if the person had no document on him; be able to identify if the documents provided are really varied or are false and also know if the license plate is registered.
+To overcome these problems, we proposed our check vehicle project with Microsoft services and technologies.
+ 
+## Solution
+Road safety systems are becoming more and more affordable with advances in camera technology, surveillance systems and the implementation of artificial intelligence.
+Through the emergence of artificial intelligence we find the knowledge exploration category which improves the understanding of content by extracting information from compartmentalized, structured and unstructured content, using a range of artificial intelligence services. personalized and pre-trained such as computer vision and natural language processing. 
+Which includes 3 steps such as  assimilation, enrich and discover.
+
 
 ## Architecture
 
@@ -22,6 +35,7 @@ This system is designed to be highly efficient and able to process multiple vehi
 The system's powerful image recognition capabilities allow it to accurately extract text from license plates even in challenging conditions such as low lighting or glare. This makes it ideal for use in various environments such as parking lots or traffic control. Additionally, the system's use of Azure File ensures that the data is stored and accessed securely in the cloud.
 
 Overall, the prototype check vehicle system is a powerful and innovative solution that can revolutionize the way we manage and track vehicle registration. It is fast, efficient, accurate and secure, making it the perfect choice for any organization looking to streamline their vehicle registration process.
+
 
 ## Demostration
 
