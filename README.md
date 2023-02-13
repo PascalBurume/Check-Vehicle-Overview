@@ -17,11 +17,22 @@ To overcome these problems, we proposed our check vehicle project with Microsoft
 Road safety systems are becoming more and more affordable with advances in camera technology, surveillance systems and the implementation of artificial intelligence.
 Through the emergence of artificial intelligence we find the knowledge exploration category which improves the understanding of content by extracting information from compartmentalized, structured and unstructured content, using a range of artificial intelligence services. personalized and pre-trained such as computer vision and natural language processing. 
 Which includes 3 steps such as  assimilation, enrich and discover.
+![Architecture Check Vehicle](./assets/Image.png)
+
+For the realization of our work, we will use the exploration of knowledge to process the images captured from the camera of the device or the telephone which will be automated and managed through power apps which will be a favourable means to effectively reinforce the level of surveillance and control of automobile license plates but also allow a reduced workforce of the agents guaranteeing a better maximization of the time of automatic and authentic identification of the necessary information concerning certain documents on board or held by the driver but also the equipment vehicle concerned. With Power Apps which is a component of Power Platform uses the Dataverse database which is secure and scalable to store data; about our prototype we will combine with SharePoint list. For the visualization of information and decision making we will use Power BI. All these solutions will be part of our Check vehicle project to improve lifestyles in road traffic.
+We will explain in detail in the architecture
+
 
 
 ## Architecture
 
 ![Architecture Check Vehicle](./assets/Architecture_Check_Vehicle.png)
+
+Cameras capture real-time video images and Azure File Storage will be used to store captured images, across unstructured data storage this is a solution for big mount of data that allow flexibility, availability and scalability.
+AI Builder offers many possibilities for Artificial Intelligence (AI) solutions.  And one of them that will be used for our solution it’s Text Recognition, which will be used to display images of different vehicles with analysis functionalities with Optical Character Recognition to extract the texts issue from the license plate.
+
+The prototype check vehicle system is a powerful tool that utilizes the latest in image recognition technology to extract text from a vehicle's license plate. The extracted text is then used to search a database to determine if the vehicle is registered or not. The system is built using Power Apps, AI Builder and SharePoint List for database, which provides a user-friendly interface and robust capabilities for image recognition. Optionally, the project can utilize Azure File to store the data, allowing for increased scalability, availability, and security specially for large enterprises big mount of data.
+Power BI will allow to analyse and have the visuals on all vehicles record, those that are in the term of insurance, also to be able to locate the vehicles according to the provinces from which they come.
 
 
 ![Data Flows Check Vehicle](./assets/Data_Flows.png)
